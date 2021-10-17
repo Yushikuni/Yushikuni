@@ -8,14 +8,21 @@
 
 ### Connect with me:
 [<img align="left" alt="Yushikuni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Yushikuni | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 [<img align="left" alt="Yushikuni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yushikuni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-https://twitter.com/KvetuseHusakov
-https://www.twitch.tv/nikdo_necte_muj_nick
-https://www.instagram.com/kvetuse_husakova/
-https://www.linkedin.com/in/kvetuse-husakova/
+
+
+
 
 ### Languages and Tools:
+
+<br>
+<br>
+[website]: https:www.seznam.cz
+[twitter]: https://twitter.com/KvetuseHusakov
+[twitch]: https://www.twitch.tv/nikdo_necte_muj_nick
+[linkedin]: https://www.linkedin.com/in/kvetuse-husakova/
+[instagram]: https://www.instagram.com/kvetuse_husakova/
