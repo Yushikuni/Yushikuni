@@ -1,8 +1,8 @@
 ### Hi, I am Kveta — aka [Yushikuni][website]
 
 ## I am gamer, reader maniak, and junior programmer
-🔭 I just launched course: Unreal Engine4
-🌱 I’m currently learning everything :D
+🔭 I just launched course: Unreal Engine 4 [website]
+🌱 I’m currently learning everything :joy:
 👯 I’m looking to collaborate with other content creators
 ⚡ Fun fact: I love to draw and play on bass guitar
 
@@ -18,9 +18,9 @@
 
 
 ### Languages and Tools:
-
+VS19 VSCode Unity Unreal git github HTML5 CSS3 JavaScript PHP 
 <br>
-<br>
+<br/>
 [website]: https:www.seznam.cz;
 [twitter]: https://twitter.com/KvetuseHusakov
 [twitch]: https://www.twitch.tv/nikdo_necte_muj_nick
