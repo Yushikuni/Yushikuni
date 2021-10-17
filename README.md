@@ -13,13 +13,9 @@
 [<img align="left" alt="Yushikuni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Yushikuni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
-
-
 ### Languages and Tools:
 VS19 VSCode Unity Unreal git github HTML5 CSS3 JavaScript PHP 
-<br>
+<br/>
 <br/>
 [website]: https:www.seznam.cz;
 [twitter]: https://twitter.com/KvetuseHusakov
