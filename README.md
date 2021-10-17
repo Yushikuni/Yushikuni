@@ -23,7 +23,7 @@
 VS19 VSCode Unity Unreal git github HTML5 CSS3 JavaScript PHP
 <br/>
 <br/>
-[website]: (https://seznam.cz)
+[website] (https://seznam.cz)
 [twitter]: <https://twitter.com/KvetuseHusakov>
 [twitch]: <https://www.twitch.tv/nikdo_necte_muj_nick>
 [linkedin]: <https://www.linkedin.com/in/kvetuse-husakova/>
