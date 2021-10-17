@@ -25,3 +25,4 @@ VS19 VSCode Unity Unreal git github HTML5 CSS3 JavaScript PHP
 [twitch]: <https://www.twitch.tv/nikdo_necte_muj_nick>
 [linkedin]: <https://www.linkedin.com/in/kvetuse-husakova/>
 [instagram]: <https://www.instagram.com/kvetuse_husakova/>
+[Contact me] (mailto:huskvenimrah@gmail.com)
