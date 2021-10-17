@@ -1,4 +1,4 @@
-### Hi, I am Kveta — aka [Yushikuni][website](https://seznam.cz)👋
+### Hi 👋, I am Kveta — aka [Yushikuni] [website](https://seznam.cz)
 
 ## I am gamer, reader maniak, and junior programmer
 
