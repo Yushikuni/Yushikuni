@@ -3,8 +3,11 @@
 ## I am gamer, reader maniak, and junior programmer
 
 🔭 I just launched course: Unreal Engine 4 [website]
+
 🌱 I’m currently learning everything :joy:
+
 👯 I’m looking to collaborate with other content creators
+
 ⚡ Fun fact: I love to draw and play on bass guitar
 
 ### Connect with me
