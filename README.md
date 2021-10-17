@@ -10,7 +10,6 @@
 
 ⚡ Fun fact: I love to draw and play on bass guitar
 
-[GitHub](http://github.com)
 
 ### Connect with me
 
