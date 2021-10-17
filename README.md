@@ -10,6 +10,8 @@
 
 ⚡ Fun fact: I love to draw and play on bass guitar
 
+[GitHub](http://github.com)
+
 ### Connect with me
 
 [<img align="left" alt="Yushikuni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
