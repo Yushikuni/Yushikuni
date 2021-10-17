@@ -21,7 +21,7 @@
 
 <br>
 <br>
-[website]: https:www.seznam.cz
+[website]: https:www.seznam.cz;
 [twitter]: https://twitter.com/KvetuseHusakov
 [twitch]: https://www.twitch.tv/nikdo_necte_muj_nick
 [linkedin]: https://www.linkedin.com/in/kvetuse-husakova/
