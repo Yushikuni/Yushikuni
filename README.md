@@ -1,6 +1,6 @@
 ### Hi 👋, I am Kveta — aka [Yushikuni] [website](https://seznam.cz)
 
-## I am gamer, passionate reader, and junior programmer
+## I am gamer, passionate reader and junior programmer
 
 🔭 I just launched course: Unreal Engine 4
 
