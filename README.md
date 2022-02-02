@@ -2,15 +2,6 @@
 
 ## I am gamer, passionate reader and junior programmer
 
-🔭 I just launched course: Unreal Engine 4
-
-🌱 I’m currently learning everything :joy:
-
-👯 I’m looking to collaborate with other content creators
-
-⚡ Fun fact: I love to draw and play on bass guitar
-
-
 ### Connect with me
 
 [<img align="left" alt="Yushikuni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://seznam.cz)
