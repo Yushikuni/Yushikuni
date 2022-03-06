@@ -1,6 +1,8 @@
 ### Hi 👋, I am Kveta — aka [Yushikuni] [website](https://husakova-kvetuse.herokuapp.com)
 
-## I am gamer, passionate reader and junior programmer
+I am gamer <img src="https://img.icons8.com/external-rabit-jes-detailed-outline-rabit-jes/62/000000/external-controller-computer-hardware-rabit-jes-detailed-outline-rabit-jes.png"/>
+passionate reader <img src="https://img.icons8.com/material-sharp/24/000000/books-1.png"/>
+and junior programmer <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-junior-agile-flaticons-lineal-color-flat-icons.png"/>
 
 ### Connect with me
 
