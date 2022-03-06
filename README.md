@@ -22,4 +22,4 @@
 [<img align="left" alt="Yushikuni | HTML" width="22px" src="https://img.icons8.com/external-flaticons-lineal-flat-icons/64/000000/external-html-computer-programming-flaticons-lineal-flat-icons.png"/>]
 [<img align="left" alt="Yushikuni | CSS3" width="22px" src="https://img.icons8.com/ios/50/000000/css3.png"/>]
 [<img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/ios/50/000000/javascript--v2.png"/>]
-[<img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/>]
+<img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/>
