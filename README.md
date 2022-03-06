@@ -14,5 +14,5 @@
 <br/>
 
 ### Languages and Tools
-
+[<img align="left" alt="Yushikuni | VS" width="22px" src="![image](https://user-images.githubusercontent.com/42646031/156912599-670171fe-be26-48dc-9e4a-a771e5897926.png)" />]
 VS19 VSCode Unity Unreal git github HTML5 CSS3 JavaScript PHP
