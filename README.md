@@ -6,7 +6,7 @@ I am gamer
 passionate reader 
 <img align="left" alt="Yushikuni | Books" width="22px" src="https://img.icons8.com/material-sharp/24/000000/books-1.png"/>
 
-and junior programmer 
+and programmer 
 <img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-junior-agile-flaticons-lineal-color-flat-icons.png"/>
 
 ### Connect with me
