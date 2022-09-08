@@ -1,4 +1,4 @@
-### Hi 👋, I am Kveta — aka [Yushikuni] [website](https://husakova-kvetuse.herokuapp.com)
+### Hi 👋, I am Kveta — aka [<a href="https://husakova-kvetuse.herokuapp.com" alt="porfolio">Yushikuni</a>]
 
 I am gamer 
 <img align="left" alt="Yushikuni | Controller" width="22px" src="https://img.icons8.com/external-rabit-jes-detailed-outline-rabit-jes/62/000000/external-controller-computer-hardware-rabit-jes-detailed-outline-rabit-jes.png"/>
