@@ -7,8 +7,8 @@ passionate reader
 <img align="left" alt="Yushikuni | Books" width="22px" src="https://img.icons8.com/emoji/256/books-emoji.png"/>
 
 and programmer 
-<img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src="![icons8-junior-64](https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png)
-"/>
+<img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src=![icons8-junior-64](https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png)
+/>
 
 ### Connect with me
 
