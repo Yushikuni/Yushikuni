@@ -1,21 +1,22 @@
 ### Hi 👋, I am Kveta — aka [<a href="https://husakova-kvetuse.herokuapp.com" alt="porfolio">Yushikuni</a>]
 
 I am gamer 
-<img align="left" alt="Yushikuni | Controller" width="22px" src="https://img.icons8.com/external-rabit-jes-detailed-outline-rabit-jes/62/000000/external-controller-computer-hardware-rabit-jes-detailed-outline-rabit-jes.png"/>
+<img align="left" alt="Yushikuni | Controller" width="22px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/>
 
 passionate reader 
-<img align="left" alt="Yushikuni | Books" width="22px" src="https://img.icons8.com/material-sharp/24/000000/books-1.png"/>
+<img align="left" alt="Yushikuni | Books" width="22px" src="https://img.icons8.com/emoji/256/books-emoji.png"/>
 
 and programmer 
-<img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-junior-agile-flaticons-lineal-color-flat-icons.png"/>
+<img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src="![icons8-junior-64](https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png)
+"/>
 
 ### Connect with me
 
-[<img align="left" alt="Yushikuni.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://husakova-kvetuse.herokuapp.com/)
+[<img align="left" alt="Yushikuni.com" width="22px" src="https://img.icons8.com/color/256/domain.png" />](https://husakova-kvetuse.herokuapp.com/)
 <!-- [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/KvetuseHusakov) -->
 <!-- [<img align="left" alt="Yushikuni | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/nikdo_necte_muj_nick) -->
-[<img align="left" alt="Yushikuni | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/kvetuse-husakova)
-[<img align="left" alt="Yushikuni | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/kvetuse_husakova/)
+[<img align="left" alt="Yushikuni | LinkedIn" width="22px" src="https://img.icons8.com/fluency/256/linkedin.png" />](https://www.linkedin.com/in/kvetuse-husakova)
+[<img align="left" alt="Yushikuni | Instagram" width="22px" src="https://img.icons8.com/color/256/instagram-new--v1.png" />](https://www.instagram.com/kvetuse_husakova/)
 <!-- [<img align="left" alt="Yushikuni | Email" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_262951.png&f=1&nofb=1" />](mailto:huskvenimrah@gmail.com) -->
 
 <br/>
