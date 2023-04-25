@@ -22,7 +22,7 @@ and programmer
 
 ### Languages and Tools
 <img align="left" alt="Yushikuni | VS" width="22px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
-<> <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/>
+<!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
 <img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/ios-filled/50/000000/unity.png"/>
 <img align="left" alt="Yushikuni | Unreal engine 4" width="22px" src="https://img.icons8.com/ios-filled/50/000000/unreal-engine.png"/>
 <img align="left" alt="Yushikuni | GIT" width="22px" src="https://img.icons8.com/ios/50/000000/git.png"/>
