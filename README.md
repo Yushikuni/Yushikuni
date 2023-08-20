@@ -3,10 +3,10 @@
 I am gamer 
 <img align="left" alt="Yushikuni | Controller" width="22px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/>
 
-passionate reader 
+Passionate reader 
 <img align="left" alt="Yushikuni | Books" width="22px" src="https://img.icons8.com/emoji/256/books-emoji.png"/>
 
-and programmer 
+Programmer 
 <img align="left" alt="Yushikuni | JuniorProgrammer" width="22px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
 
 ### Connect with me
