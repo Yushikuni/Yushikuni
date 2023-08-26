@@ -1,7 +1,7 @@
 ### Hi 👋, I am Kveta — aka [<a href="https://husakova-kvetuse.herokuapp.com" alt="porfolio">Yushikuni</a>]
 
 I am gamer 
-<img align="left" alt="Yushikuni | Controller" width="44px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/>
+<img align="left" alt="Yushikuni | Controller" width="44px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/><br/>
 
 
 Passionate reader 
