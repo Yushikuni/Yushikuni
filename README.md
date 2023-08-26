@@ -21,10 +21,10 @@ Programmer
 <br/>
 
 ### Languages && Tools
-<img align="left" alt="Yushikuni | VS" width="22px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
+<img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
 <!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
 <!-- <img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/color/256/unity.png"/> -->
-<img align="left" alt="Yushikuni | Unreal engine 4" width="22px" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
+<img align="left" alt="Yushikuni | Unreal engine 4" width="44px" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
 <!-- <img align="left" alt="Yushikuni | GIT" width="22px" src="https://img.icons8.com/color/256/git.png"/> -->
 <!-- <img align="left" alt="Yushikuni | HTML" width="22px" src="https://img.icons8.com/color/256/html-5--v1.png"/> -->
 <!-- <img align="left" alt="Yushikuni | CSS3" width="22px" src="https://img.icons8.com/color/256/css3.png"/> -->
