@@ -20,19 +20,15 @@ Programmer
 
 <br/>
 
-### Languages and Tools
+### Languages && Tools
 <img align="left" alt="Yushikuni | VS" width="22px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
 <!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
-<img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/color/256/unity.png"/>
+<!-- <img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/color/256/unity.png"/> -->
 <img align="left" alt="Yushikuni | Unreal engine 4" width="22px" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
-<img align="left" alt="Yushikuni | GIT" width="22px" src="https://img.icons8.com/color/256/git.png"/>
-<img align="left" alt="Yushikuni | HTML" width="22px" src="https://img.icons8.com/color/256/html-5--v1.png"/>
-<img align="left" alt="Yushikuni | CSS3" width="22px" src="https://img.icons8.com/color/256/css3.png"/>
-<img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/color/256/javascript--v1.png"/>
-<img align="left" alt="Yushikuni | ReactJS" width="22px" src="[https://img.icons8.com/?size=512&id=8g6WJkjf0vaP&format=png](https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/react-icon.svg)"/>
+<!-- <img align="left" alt="Yushikuni | GIT" width="22px" src="https://img.icons8.com/color/256/git.png"/> -->
+<!-- <img align="left" alt="Yushikuni | HTML" width="22px" src="https://img.icons8.com/color/256/html-5--v1.png"/> -->
+<!-- <img align="left" alt="Yushikuni | CSS3" width="22px" src="https://img.icons8.com/color/256/css3.png"/> -->
+<!-- <img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/color/256/javascript--v1.png"/> -->
 <!-- img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
-### TESTING: 
-
-
-[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,unity,git,&theme=dark)](https://skills.thijs.gg)
