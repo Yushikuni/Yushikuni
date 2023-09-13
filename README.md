@@ -22,6 +22,7 @@ I am gamer
 
 
 
+<br/>
 ### Languages && Tools
 
 <img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
