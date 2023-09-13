@@ -35,5 +35,5 @@ I am gamer
 <br/>
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,unity,git,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,unity,git&theme=dark)](https://skills.thijs.gg)
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,powershell,&theme=dark)](https://skills.thijs.gg)
