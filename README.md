@@ -23,22 +23,23 @@ I am gamer
 
 ### Languages && Tools
 
-<img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/>
+<!-- <img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/-->
 <!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
 <!-- <img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/color/256/unity.png"/> -->
-<img align="left" alt="Yushikuni | Unreal engine 4" width="44px" src="https://img.icons8.com/nolan/256/unreal-engine.png"/>
+<!-- <img align="left" alt="Yushikuni | Unreal engine 4" width="44px" src="https://img.icons8.com/nolan/256/unreal-engine.png"/-->
 <!-- <img align="left" alt="Yushikuni | GIT" width="22px" src="https://img.icons8.com/color/256/git.png"/> -->
 <!-- <img align="left" alt="Yushikuni | HTML" width="22px" src="https://img.icons8.com/color/256/html-5--v1.png"/> -->
 <!-- <img align="left" alt="Yushikuni | CSS3" width="22px" src="https://img.icons8.com/color/256/css3.png"/> -->
 <!-- <img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/color/256/javascript--v1.png"/> -->
-<!-- img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
+<!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
-<br/>
-<br/>
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode,git&theme=dark)](https://skills.thijs.gg)
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,unity,git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unity,unreal&theme=dark)](https://skills.thijs.gg)
+<br/>
 
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react&theme=dark)](https://skills.thijs.gg)
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,powershell,&theme=dark)](https://skills.thijs.gg)
