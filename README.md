@@ -33,4 +33,7 @@ I am gamer
 <!-- <img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/color/256/javascript--v1.png"/> -->
 <!-- img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
+<br/>
+
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,unity,git,&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,powershell,&theme=dark)](https://skills.thijs.gg)
