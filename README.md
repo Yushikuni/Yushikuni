@@ -19,10 +19,6 @@ I am gamer
 
 [![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova)
 
-[<a href="https://www.instagram.com/kvetuse_husakova/" alt="Yushikuni | Instagram">Instagram xD</a>]
-
-
-
 [![My_Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/kvetuse_husakova/)
 
 
