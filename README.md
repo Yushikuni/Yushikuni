@@ -16,7 +16,7 @@ I am gamer
 <!--[<img alt="Yushikuni.com" width="50px" src="https://img.icons8.com/color/256/domain.png" />](https://husakova-kvetuse.herokuapp.com/) -->
 <!-- [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/KvetuseHusakov) -->
 <!-- [<img align="left" alt="Yushikuni | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/nikdo_necte_muj_nick) -->
-
+<br/>
 
 [![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova)
 [![My_Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/kvetuse_husakova/)
