@@ -16,9 +16,10 @@ I am gamer
 [<img align="left" alt="Yushikuni.com" width="50px" src="https://img.icons8.com/color/256/domain.png" />](https://husakova-kvetuse.herokuapp.com/)
 <!-- [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/KvetuseHusakov) -->
 <!-- [<img align="left" alt="Yushikuni | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/nikdo_necte_muj_nick) -->
-[<img align="left" alt="Yushikuni | LinkedIn" width="52px" src="https://img.icons8.com/fluency/256/linkedin.png" />](https://www.linkedin.com/in/kvetuse-husakova)
-<a href="https://www.instagram.com/kvetuse_husakova/" img src="[![My_Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://skills.thijs.gg)" />
-<!-- [<img align="left" alt="Yushikuni | Email" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.onlinewebfonts.com%2Fsvg%2Fimg_262951.png&f=1&nofb=1" />](mailto:huskvenimrah@gmail.com) -->
+<a href="https://www.linkedin.com/in/kvetuse-husakova" alt="Yushikuni | LinkedIn" img src="[![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://skills.thijs.gg)" />
+
+<a href="https://www.instagram.com/kvetuse_husakova/" alt="Yushikuni | Instagram" img src="[![My_Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://skills.thijs.gg)" />
+
 [![My Skills](https://skills.thijs.gg/icons?i=discord&theme=dark)](https://skills.thijs.gg)
 
 <br/>
