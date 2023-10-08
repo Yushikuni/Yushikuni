@@ -18,7 +18,7 @@ I am gamer
 <!-- [<img align="left" alt="Yushikuni | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/nikdo_necte_muj_nick) -->
 [<a href="https://www.linkedin.com/in/kvetuse-husakova" alt="Yushikuni | LinkedIn">LinkedIn :D
 
-[![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://skills.thijs.gg)
+[![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)]([https://skills.thijs.gg](https://www.linkedin.com/in/kvetuse-husakova))
 
 </a>]
 [<a href="https://www.instagram.com/kvetuse_husakova/" alt="Yushikuni | Instagram">Instagram xD</a>]
