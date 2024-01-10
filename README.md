@@ -45,4 +45,4 @@ I am gamer
 [![My Skills](https://skills.thijs.gg/icons?i=html,md,css,js,react,mysql&theme=dark)](https://skills.thijs.gg)
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku,lua &theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku,lua&theme=dark)](https://skills.thijs.gg)
