@@ -39,7 +39,7 @@ I am gamer
 [![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode&theme=dark)](https://skills.thijs.gg)
 <br/>
 
-[![My Skills](https://skills.thijs.gg/icons?i=unity,unreal&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=unreal&theme=dark)](https://skills.thijs.gg)
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skills.thijs.gg)
