@@ -53,5 +53,5 @@ I am gamer
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experinece with
-[![My Skills](https://skillicons.dev/icons?i=windows,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skills.thijs.gg/icons?i=windows,linux&theme=dark)](https://skills.thijs.gg)
