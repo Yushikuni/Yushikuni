@@ -43,7 +43,7 @@ I am gamer
 <br/>
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=git&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=git,docker&theme=dark)](https://skills.thijs.gg)
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skills.thijs.gg)
