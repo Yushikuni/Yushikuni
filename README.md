@@ -1,7 +1,8 @@
 ### Hi 👋, I am <a href="https://husakova-kvetuse.herokuapp.com" alt="porfolio">Yushikuni</a>
 
 I am gamer 
-<img align="left" alt="Yushikuni | Gamer" width="50px" src="[https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png](https://icons8.com/icon/uXDwm4KKjmZ6/gamer)"/><br/>
+<img align="left" alt="Yushikuni | Gamer" width="50px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/>
+<br/>
 
 <br/>Passionate reader 
 <img align="left" alt="Yushikuni | Books" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGPoK5CTPDhZtO/CXOEtx6eKTGEAgbTk5JSJs2af6p0y5VR5W+Zqz6IiNYbk9PQpde3tB2qamw/kp0Wt67FVdmdITkuLT4uP35CdGLdpSrTfpuXW8p5gI2xt7Tszc3ObqpvbIkECANjLKCb8MNCKAAAAAElFTkSuQmCC">"/>
