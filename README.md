@@ -11,7 +11,7 @@ I am gamer
 <img align="left" alt="Yushikuni | Programmer" width="50px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
 <br/>
 
-<br/>Currently working on a Project: Toon Tanks, Galactic Havoc
+<br/>Currently working on a Project: <a href="https://github.com/Yushikuni/ToonTanks" alt="ToonTanks">Toon Tanks</a>, <a href="https://github.com/Yushikuni/GalacticHavoc" alt="Galactic Havoc">Galactic Havoc</a>
 <img align="left" alt="Yushikuni | CurrentlyWorkingONaProject" width="50" height="50" src="https://img.icons8.com/pulsar-color/50/project-management.png" alt="project-management"/>
 <br/>
 <br/>
