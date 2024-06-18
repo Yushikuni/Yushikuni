@@ -6,11 +6,9 @@ I am gamer
 
 <br/>Passionate reader 
 <img align="left" alt="Yushikuni | Books" src="https://img.icons8.com/doodle/48/books.png"/>
-<link type="image/png" sizes="16x16" rel="icon" href="https://img.icons8.com/doodle/48/books.png">
 
 <br/>Programmer 
 <img align="left" alt="Yushikuni | Programmer" width="50px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
-<br/>
 <br/>
 
 <br/>Currently working on a Project: Toon Tanks, Galactic Havoc
