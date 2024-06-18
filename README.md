@@ -3,16 +3,18 @@
 I am gamer 
 <img align="left" alt="Yushikuni | Controller" width="50px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/256/external-gamer-game-development-flaticons-lineal-color-flat-icons-4.png"/><br/>
 
-
 <br/>Passionate reader 
 <img align="left" alt="Yushikuni | Books" width="50px" src="https://img.icons8.com/emoji/256/books-emoji.png"/>
-
 
 <br/>Programmer 
 <img align="left" alt="Yushikuni | Programmer" width="50px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
 <br/>
 <br/>
 
+<br/>Programmer 
+<img align="left" alt="Yushikuni | CurrentlyWorkingONaProject" width="50px" src="![image](https://github.com/Yushikuni/Yushikuni/assets/42646031/719c65fc-eaa6-4188-ad34-01cc0a5f5d17)"/>
+<br/>
+<br/>
 ### Connect with me
 <!-- [<img alt="Yushikuni.com" width="50px" src="https://img.icons8.com/color/256/domain.png" />](https://husakova-kvetuse.herokuapp.com/) -->
 <!-- [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/KvetuseHusakov) -->
