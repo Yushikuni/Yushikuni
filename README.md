@@ -13,7 +13,7 @@ I am gamer
 <br/>
 <br/>
 
-<br/>Currently working on a Project: Toon Tanks, Galactic Havoc</br>
+<br/>Currently working on a Project: Toon Tanks, Galactic Havoc
 <img align="left" alt="Yushikuni | CurrentlyWorkingONaProject" width="50" height="50" src="https://img.icons8.com/pulsar-color/50/project-management.png" alt="project-management"/>
 <br/>
 <br/>
