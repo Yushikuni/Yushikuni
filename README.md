@@ -37,14 +37,8 @@ I am gamer
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=vscode&theme=dark)](https://skills.thijs.gg)
-
-
-[![My Skills](https://skills.thijs.gg/icons?i=unreal&theme=dark)](https://skills.thijs.gg)
-[![My Skills](https://skills.thijs.gg/icons?i=unity&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unreal,unity&theme=dark)](https://skillicons.dev)
 <br/>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)-->
