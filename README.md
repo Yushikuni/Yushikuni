@@ -20,7 +20,6 @@ I am gamer
 <!-- [<img align="left" alt="Yushikuni | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](http://twitter.com/KvetuseHusakov) -->
 <!-- [<img align="left" alt="Yushikuni | Twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/nikdo_necte_muj_nick) -->
 
-
 [![My_Skills](https://skills.thijs.gg/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova)
 [![My_Skills](https://skills.thijs.gg/icons?i=instagram&theme=dark)](https://www.instagram.com/kvetuse_husakova/)
 [![My Skills](https://skills.thijs.gg/icons?i=discord&theme=dark)]((https://discord.com/users/479581931261132803))
@@ -38,7 +37,7 @@ I am gamer
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode&theme=dark)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode&theme=dark)]
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=unreal,unity&theme=dark)](https://skills.thijs.gg)
