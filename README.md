@@ -37,7 +37,7 @@ I am gamer
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
 
-[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode&theme=dark)]
+[![My Skills](https://skills.thijs.gg/icons?i=visualstudio,vscode&theme=dark)](https://skills.thijs.gg)
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=unreal,unity&theme=dark)](https://skills.thijs.gg)
