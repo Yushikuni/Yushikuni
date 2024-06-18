@@ -5,7 +5,7 @@ I am gamer
 <br/>
 
 <br/>Passionate reader 
-<img align="left" alt="Yushikuni | Books" src=""/>
+<img align="left" alt="Yushikuni | Books" src="https://img.icons8.com/doodle/48/books.png"/>
 <link type="image/png" sizes="16x16" rel="icon" href="https://img.icons8.com/doodle/48/books.png">
 
 <br/>Programmer 
