@@ -43,7 +43,8 @@ I am gamer
 [![My Skills](https://skills.thijs.gg/icons?i=unreal,unity&theme=dark)](https://skills.thijs.gg)
 <br/>
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)-->
+[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 <br/>
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skills.thijs.gg)
@@ -52,5 +53,5 @@ I am gamer
 [![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,powershell,heroku&theme=dark)](https://skills.thijs.gg)
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
-### Experinece with
+### Experience with
 [![My Skills](https://skillicons.dev/icons?i=windows,linux&theme=dark)](https://skillicons.dev)
