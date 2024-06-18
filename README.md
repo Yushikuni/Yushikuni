@@ -6,7 +6,7 @@ I am gamer
 
 <br/>Passionate reader 
 <img width="48" height="48" src="https://img.icons8.com/doodle/48/books.png" alt="books"/>
-<img align="left" alt="Yushikuni | Books" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGPoK5CTPDhZtO/CXOEtx6eKTGEAgbTk5JSJs2af6p0y5VR5W+Zqz6IiNYbk9PQpde3tB2qamw/kp0Wt67FVdmdITkuLT4uP35CdGLdpSrTfpuXW8p5gI2xt7Tszc3ObqpvbIkECANjLKCb8MNCKAAAAAElFTkSuQmCC">"/>
+<img align="left" alt="Yushikuni | Books" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAAFCAYAAACNbyblAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAbElEQVR4nGPoK5CTPDhZtO/CXOEtx6eKTGEAgbTk5JSJs2af6p0y5VR5W+Zqz6IiNYbk9PQpde3tB2qamw/kp0Wt67FVdmdITkuLT4uP35CdGLdpSrTfpuXW8p5gI2xt7Tszc3ObqpvbIkECANjLKCb8MNCKAAAAAElFTkSuQmCC"/>
 
 <br/>Programmer 
 <img align="left" alt="Yushikuni | Programmer" width="50px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
