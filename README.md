@@ -47,7 +47,7 @@ I am gamer
 
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,powershell,heroku&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,powershell,heroku,firebase&theme=dark)](https://skillicons.dev)
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experience with
