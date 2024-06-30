@@ -7,7 +7,7 @@ I am gamer
 <br/>Passionate reader 
 <img align="left" alt="Yushikuni | Books" src="https://img.icons8.com/doodle/48/books.png"/>
 
-<br/>Programmer 
+<br/>INFJ-T programmer specializing in C++ with a passion for game development 
 <img align="left" alt="Yushikuni | Programmer" width="50px" src="https://user-images.githubusercontent.com/42646031/234265305-edc9ab37-e0dc-4a35-9d65-5877a81dbada.png"/>
 <br/>
 
@@ -52,3 +52,5 @@ I am gamer
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experience with
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi&theme=dark)](https://skillicons.dev)
+
+Feel free to reach out with any questions, and I look forward to collaborating!
