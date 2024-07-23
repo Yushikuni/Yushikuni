@@ -13,6 +13,8 @@ I am gamer girl
 
 <br/>Currently working on a Project: <a href="https://github.com/Yushikuni/ToonTanks" alt="ToonTanks">Toon Tanks</a>, <a href="https://github.com/Yushikuni/GalacticHavoc" alt="Galactic Havoc">Galactic Havoc</a>, <a href="https://github.com/Yushikuni/Recipes" alt="C++ BackEnd Crow"> Recipes</a>, <a href="https://husakova-kvetuse.herokuapp.com" alt="porfolio"> My personal portfolio </a>
 <img align="left" alt="Yushikuni | CurrentlyWorkingONaProject" width="50" height="50" src="https://img.icons8.com/pulsar-color/50/project-management.png" alt="project-management"/>
+<br/> Feel free to reach out with any questions, and I look forward to collaborating!
+<img width="64" height="64" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-collaboration-home-based-business-flaticons-lineal-color-flat-icons.png" alt="external-collaboration-home-based-business-flaticons-lineal-color-flat-icons"/>
 <br/>
 <br/>
 ### Connect with me
@@ -52,5 +54,3 @@ I am gamer girl
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experience with
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi&theme=dark)](https://skillicons.dev)
-
-Feel free to reach out with any questions, and I look forward to collaborating!
