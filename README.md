@@ -27,7 +27,15 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 [![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)](https://discord.com/users/479581931261132803)
 <br/>
 
-### Languages && Tools
+### My Most used lang && tools
+[![My Skills](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://visualstudio.microsoft.com/cs/)
+[![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cplusplus.com/)
+[![My Skills](https://skillicons.dev/icons?i=unrealengine&theme=dark)](https://www.unrealengine.com/en-US)
+[![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+
+
+
+### Additional Languages && Tools
 <!-- <img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/-->
 <!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
 <!-- <img align="left" alt="Yushikuni | Unity 3D" width="22px" src="https://img.icons8.com/color/256/unity.png"/> -->
@@ -39,19 +47,18 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
 
-[![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) 
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=unreal,unity&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev)
 <br/>
 
 <!--[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)-->
-[![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 <br/>
 
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=cpp,cs,powershell,heroku,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,powershell,heroku,firebase&theme=dark)](https://skillicons.dev)
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
-### Experience with
+### Experience development with
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi&theme=dark)](https://skillicons.dev)
