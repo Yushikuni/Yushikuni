@@ -1,5 +1,7 @@
 <h1 align="center">⚡ Welcome to My Cyberpunk World ⚡</h1>
-![DALL·E 2024-09-05 18 41 00 - A dark cyberpunk-style banner featuring a futuristic cityscape illuminated by neon lights, with glowing circuits and coding symbols subtly integrated ](https://github.com/user-attachments/assets/7a64ccca-1982-4b10-930e-1771f684fd18)
+
+
+<!--img src="https://github.com/user-attachments/assets/7a64ccca-1982-4b10-930e-1771f684fd18" alt="Cyberpunk Banner" width="100%" /-->
 
 
 ### 💻 Programmer | INFJ-T | C++ Enthusiast
