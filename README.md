@@ -47,14 +47,8 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=vscode,unity&theme=dark)](https://skillicons.dev) 
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://skillicons.dev)
-<br/>
-
-<!--[![My Skills](https://skillicons.dev/icons?i=git,docker)](https://skillicons.dev)-->
-<br/>
-
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skillicons.dev)
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cs,powershell,heroku,firebase&theme=dark)](https://skillicons.dev)
