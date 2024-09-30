@@ -51,7 +51,7 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skillicons.dev)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=cs,powershell,heroku,firebase&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,powershell,firebase&theme=dark)](https://skillicons.dev)
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experience development with
