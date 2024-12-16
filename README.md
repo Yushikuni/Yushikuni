@@ -28,6 +28,7 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 <br/>
 
 ### My Most used lang && tools
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)
 [![My Skills](https://skillicons.dev/icons?i=visualstudio&theme=dark)](https://visualstudio.microsoft.com/cs/)
 [![My Skills](https://skillicons.dev/icons?i=cpp&theme=dark)](https://cplusplus.com/)
 [![My Skills](https://skillicons.dev/icons?i=unrealengine&theme=dark)](https://www.unrealengine.com/en-US)
