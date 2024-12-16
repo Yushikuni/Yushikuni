@@ -34,7 +34,6 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 [![My Skills](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 
 
-
 ### Additional Languages && Tools
 <!-- <img align="left" alt="Yushikuni | VS" width="44px" src="https://img.icons8.com/fluency/256/visual-studio.png"/-->
 <!-- <img align="left" alt="Yushikuni | VS Code" width="22px" src="https://img.icons8.com/carbon-copy/48/000000/visual-studio-code-2019.png"/-->
@@ -46,12 +45,17 @@ Feel free to reach out with any questions, and I look forward to collaborating!
 <!-- <img align="left" alt="Yushikuni | JavaScript" width="22px" src="https://img.icons8.com/color/256/javascript--v1.png"/> -->
 <!-- <img align="left" alt="Yushikuni | PHP" width="22px" src="https://img.icons8.com/ios/50/000000/php.png"/-->
 
-
-[![My Skills](https://skillicons.dev/icons?i=figma,vscode,unity&theme=dark)](https://skillicons.dev) 
+#### 🛠️ Development Tools:
+[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark)](https://code.visualstudio.com/)
 <br/>
-[![My Skills](https://skillicons.dev/icons?i=html,md,css,js,nodejs,react,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity&theme=dark)](https://unity.com/) 
+<br/>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql&theme=dark)]()
 <br/>
 [![My Skills](https://skillicons.dev/icons?i=cs,powershell,firebase&theme=dark)](https://skillicons.dev)
+
+#### 🎨 Design Tools:
+[![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)
 
 <!--[![My Skills](https://skills.thijs.gg/icons?i=cpp,cs,py,powershell,heroku&theme=dark)](https://skills.thijs.gg)-->
 ### Experience development with
