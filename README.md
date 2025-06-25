@@ -10,19 +10,19 @@
 ### 📬 Connect with me  
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) <br/>
 
-🧠 Languages & Frameworks<br/>
+### 🧠 Languages & Frameworks<br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,unrealengine&theme=dark)]()
 <br/>
-🧰 Dev Tools<br/>
+### 🧰 Dev Tools<br/>
 [![My Skills](https://skillicons.dev/icons?i=visualstudio,vscode,git,linux&theme=dark)]()
 <br/>
-🌐 Web Stack (volitelné – když to není hlavní):<br/>
+### 🌐 Web Stack (volitelné – když to není hlavní):<br/>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mysql&theme=dark)]()
 <br/>
-🎨 Design Tools:<br/>
+### 🎨 Design Tools:<br/>
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=dark)](https://www.figma.com/)<br/>
 <br/>
-🖥️ Platforms & Devices:<br/>
+### 🖥️ Platforms & Devices:<br/>
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi&theme=dark)](https://skillicons.dev)<br/>
 
 ### 🚧 What I’m working on:
