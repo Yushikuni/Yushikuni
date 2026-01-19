@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Květuše (aka Yushikuni)
+### 👋 Hi, I'm Yushikuni
 
 🎯 Junior C++ Developer focused on systems, logic, and tool-building  
 🔧 Working with C++ (CLI apps, AI systems), Python (scripts & APIs), and Unreal Engine  
@@ -8,7 +8,7 @@
 
 
 ### 📬 Connect with me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) <br/>
+<!--[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) <br/-->
 
 ### 🧠 Languages & Frameworks<br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,unrealengine&theme=dark)]()
@@ -29,3 +29,4 @@
 - 🛠 Refactoring my C++ TODO console app
 - 🎮 Experimenting with AI patrol logic in my Witcher-inspired project
 - ✨ Updating my GitHub profile and portfolio for C++ engineer positions
+
