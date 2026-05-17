@@ -10,6 +10,11 @@
 ### 📬 Connect with me  
 <!--[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) <br/-->
 
+### 🚧 What I’m working on:
+- 🛠 Refactoring my C++ TODO console app
+- 🎮 Experimenting with AI patrol logic in my Witcher-inspired project
+- ✨ Updating my GitHub profile and portfolio for C++ engineer positions
+
 ### 🧠 Languages & Frameworks<br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,unrealengine&theme=dark)]()
 <br/>
@@ -24,9 +29,3 @@
 <br/>
 ### 🖥️ Platforms & Devices<br/>
 [![My Skills](https://skillicons.dev/icons?i=windows,linux,raspberrypi&theme=dark)](https://skillicons.dev)<br/>
-
-### 🚧 What I’m working on:
-- 🛠 Refactoring my C++ TODO console app
-- 🎮 Experimenting with AI patrol logic in my Witcher-inspired project
-- ✨ Updating my GitHub profile and portfolio for C++ engineer positions
-
