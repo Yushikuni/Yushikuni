@@ -13,7 +13,7 @@
 ### 🚧 What I’m working on:
 - 🛠 Refactoring my C++ TODO console app
 - 🎮 Experimenting with AI patrol logic in my Witcher-inspired project
-- ✨ Updating my GitHub profile and portfolio for C++ engineer positions
+- ✨ Updating my GitHub profile and repos for C++ engineer positions
 
 ### 🧠 Languages & Frameworks<br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,unrealengine&theme=dark)]()
