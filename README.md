@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Yushikuni
 
-🎯 Junior C++ Developer focused on systems, logic, and tool-building  
+🎯 C++ Developer focused on systems, logic, and tool-building  
 🔧 Working with C++ (CLI apps, AI systems), Python (scripts & APIs), and Unreal Engine  
 🌱 Learning by building – from gameplay mechanics to console-based tools  
 💡 Passionate about clean code, AI, and building useful things<br/>
