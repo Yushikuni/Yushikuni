@@ -1,0 +1,68 @@
+name: Update README - Working On
+
+on:
+  schedule:
+    # Runs at 06:00 UTC on the 1st day of every month
+    - cron: '0 6 1 * *'
+  workflow_dispatch: {}  # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch repos tagged 'workingon' and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            // Search repos owned by you with the 'workingon' topic
+            const { data } = await github.rest.search.repos({
+              q: `user:${context.repo.owner} topic:workingon`,
+              sort: 'updated',
+              order: 'desc',
+            });
+
+            let section;
+            if (data.items.length === 0) {
+              section = '_Nothing tagged as work-in-progress right now._';
+            } else {
+              section = data.items
+                .map(repo => {
+                  const desc = repo.description ? ` – ${repo.description}` : '';
+                  return `- [${repo.name}](${repo.html_url})${desc}`;
+                })
+                .join('\n');
+            }
+
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            const startMarker = '<!--START_SECTION:workingon-->';
+            const endMarker = '<!--END_SECTION:workingon-->';
+
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('README markers not found. Add <!--START_SECTION:workingon--> and <!--END_SECTION:workingon--> to README.md');
+              return;
+            }
+
+            const before = readme.slice(0, startIdx + startMarker.length);
+            const after = readme.slice(endIdx);
+
+            const newReadme = `${before}\n${section}\n${after}`;
+            fs.writeFileSync(readmePath, newReadme);
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update 'working on' section in README [automated]"
+          file_pattern: README.md
