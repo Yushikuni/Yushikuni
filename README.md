@@ -5,8 +5,9 @@
 🧙‍♀️ Long-term: combining tactical game design with clean, maintainable architecture
 📚 Background in QA testing, technical documentation, and enterprise systems (HELIOS ERP)
 
-### 📬 Connect with me  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) <br/>
+### 📬 Connect with me:  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) 
+<br/>
 
 ### 🚧 What I’m working on:
 <!--START_SECTION:workingon-->
