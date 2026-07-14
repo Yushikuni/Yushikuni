@@ -5,10 +5,6 @@
 🧙‍♀️ Long-term: combining tactical game design with clean, maintainable architecture<br/>
 📚 Background in QA testing, technical documentation, and enterprise systems (HELIOS ERP)<br/>
 
-### 📬 Connect with me:  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/kvetuse-husakova) 
-<br/>
-
 ### 🚧 What I’m working on:
 <!--START_SECTION:workingon-->
 - [QuestSystem_Cpp](https://github.com/Yushikuni/QuestSystem_Cpp) – Quest system made in C++
