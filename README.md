@@ -7,7 +7,7 @@
 
 ### 🚧 What I’m working on:
 <!--START_SECTION:workingon-->
-- [QuestSystem_Cpp](https://github.com/Yushikuni/QuestSystem_Cpp) – Quest system made in C++
+- [QuestSystem_Cpp](https://github.com/Yushikuni/QuestSystem_Cpp) – C++ quest system with class-per-quest-type design (delivery, escort, gather, kill), tracking state and player-driven story branching
 <!--END_SECTION:workingon-->
 
 ### 🎯 Focus
