@@ -1,0 +1,57 @@
+name: sync author footer
+
+on:
+  schedule:
+    # Runs at 06:00 UTC on the 1st day of every month
+    - cron: '0 6 1 * *'
+  workflow_dispatch: {}  # allows manual trigger from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  update-footer:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Fetch canonical footer and update README
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+
+            // Single source of truth: the profile repo's AUTHOR_FOOTER.md
+            const rawUrl = 'https://raw.githubusercontent.com/Yushikuni/Yushikuni/main/AUTHOR_FOOTER.md';
+            const res = await fetch(rawUrl);
+            if (!res.ok) {
+              core.setFailed(`Could not fetch AUTHOR_FOOTER.md (status ${res.status})`);
+              return;
+            }
+            const footer = (await res.text()).trim();
+
+            const readmePath = 'README.md';
+            let readme = fs.readFileSync(readmePath, 'utf8');
+
+            const startMarker = '<!--START_SECTION:AUTHOR-->';
+            const endMarker = '<!--END_SECTION:AUTHOR-->';
+            const startIdx = readme.indexOf(startMarker);
+            const endIdx = readme.indexOf(endMarker);
+
+            if (startIdx === -1 || endIdx === -1) {
+              core.setFailed('README markers not found. Add <!--START_SECTION:AUTHOR--> and <!--END_SECTION:AUTHOR--> to README.md');
+              return;
+            }
+
+            const before = readme.slice(0, startIdx + startMarker.length);
+            const after = readme.slice(endIdx);
+            const newReadme = `${before}\n${footer}\n${after}`;
+
+            fs.writeFileSync(readmePath, newReadme);
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync author footer from Yushikuni/Yushikuni [automated]"
+          file_pattern: README.md
