@@ -7,15 +7,16 @@
 📬 Open for freelance work — feel free to reach out:<br/>
 **[kvetusehusakova@gmail.com](mailto:kvetusehusakova@gmail.com)**
 
+### 🎯 Focus
+Gameplay/systems programming and embedded C++ – aiming for roles where
+clean architecture actually matters, not just shipping features fast.
+
 ### 🚧 What I’m working on:
 <!--START_SECTION:workingon-->
 - [TheWitcherMechanic](https://github.com/Yushikuni/TheWitcherMechanic) – Distance-based enemy/magic detection mechanic for UE5, inspired by The Witcher medallion. Reusable core plugin — signal strength scales with proximity, no game-specific logic.
 <!--END_SECTION:workingon-->
 
-### 🎯 Focus
 
-Gameplay/systems programming and embedded C++ – aiming for roles where
-clean architecture actually matters, not just shipping features fast.
   
 ### 🧠 Languages & Frameworks<br/>
 [![My Skills](https://skillicons.dev/icons?i=cpp,py,cs,unrealengine&theme=dark)]()
