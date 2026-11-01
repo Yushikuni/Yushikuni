@@ -13,6 +13,8 @@ clean architecture actually matters, not just shipping features fast.
 
 ### 🚧 What I’m working on:
 <!--START_SECTION:workingon-->
+- [QuestSystem_Cpp](https://github.com/Yushikuni/QuestSystem_Cpp) – C++ quest system demonstrating OOP design — inheritance, virtual dispatch, and per-quest-type behavior (Kill, Delivery, Escort, Gather) sharing a common QuestSystem base. Built as a portfolio piece to practice clean class hierarchy design
+- [Library](https://github.com/Yushikuni/Library) – Personal library tracker: native Windows (MFC/Win32) client in C++ with a PHP/MySQL backend
 - [TheWitcherMechanic](https://github.com/Yushikuni/TheWitcherMechanic) – Distance-based enemy/magic detection mechanic for UE5, inspired by The Witcher medallion. Reusable core plugin — signal strength scales with proximity, no game-specific logic.
 <!--END_SECTION:workingon-->
 
